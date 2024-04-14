@@ -40,7 +40,7 @@
 <body>
     <div class="instagram-container">
         <h1>Follow @_prerit.05 on Instagram</h1>
-        <p>Stay updated with our latest posts and stories!</p>
+        <p>Prerit is a amazing person. He is very inteligent student in his school. So, click the bellow to follow his instagram account and stay updated on our latest stories and posts.</p>
         <a href="https://www.instagram.com/_prerit.05" target="_blank" class="instagram-button">Follow @_prerit.05</a>
     </div>
 </body>
